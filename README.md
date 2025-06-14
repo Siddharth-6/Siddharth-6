@@ -32,14 +32,6 @@
 
 ---
 
-## 🔥 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-6&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 🏗️ Projects Showcase
 
 Here are some of my personal and learning projects:
