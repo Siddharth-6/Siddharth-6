@@ -36,6 +36,7 @@
 
 Here are some of my personal and learning projects:
 
+- 📂 **NimbusFS** - Distributed Fault-Tolerant File Storage System.
 - 🎯 **AI-powered Games** - Building simple games (Snake, Flappy Bird) with AI agents.
 - 📂 **Image & File Compression** - Developed custom compression algorithms in Python/Java.
 - 🔐 **Password Based Digital Lock** - Implemented on CPLD board using Verilog.
